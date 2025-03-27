@@ -1,9 +1,11 @@
-## Hi there 👋
+<!-- This is my README description on my GitHub profile-->
 
 <h1 align="center">Hi 👋, I'm Raziel Fernández</h1>
-<h3 align="center">A passionate Software developer from México</h3>
+<h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on developing a mobile APP called [Club STEAM App](https://github.com/RazFernandez/club_steam_app)
+I'm passionate about developing tools and contributing to solving social problems. Committed to delivering functional, scalable, and user-centered solutions that meet all stakeholders' needs.
+
+- 🔭 I’m currently working on developing a mobile app called [Club STEAM App](https://github.com/RazFernandez/club_steam_app) to manage projects at my university.
 
 - 🌱 I’m currently learning **Flutter framework, firebase services and some AI with Python.**
 
