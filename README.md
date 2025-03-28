@@ -2,16 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm Raziel Fernández</h1>
 <h3 align="center">A passionate Software developer</h3>
-
+<br>
 I'm passionate about developing tools and contributing to solving social problems. Committed to delivering functional, scalable, and user-centered solutions that meet all stakeholders' needs.
+<br>
+<br>
 
-- 🔭 I’m currently working on developing a mobile app called [Club STEAM App](https://github.com/RazFernandez/club_steam_app) to manage projects at my university.
+- 🌍 I'm based in Cozumel, Quintana Roo
 
-- 🌱 I’m currently learning **Flutter framework, firebase services and some AI with Python.**
+- 👨‍💻 See my portfolion web at: _Comming soon_
 
-- 👨‍💻 All of my projects are available at [Coming Soon...](Coming Soon...)
+- 💼 You can contact me at:
+  - **mr.fernandez.mx@outlook.com**
+  - **https://www.linkedin.com/in/mrfernández/**
+<br>
+<h2 align="left">✨ Latest Work</h2>
+🔭 I’m currently developing Club STEAM App, a mobile flutter application designed to manage projects at my university.
+- Link: [Club STEAM App](https://github.com/RazFernandez/club_steam_app)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mrfernández/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
