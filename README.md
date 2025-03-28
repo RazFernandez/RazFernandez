@@ -52,7 +52,7 @@ I’m currently developing Club STEAM App, a mobile Flutter application designed
 <br>
 <h3>⚙️ DevOps & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,vim,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,vim&perline=8)](https://skillicons.dev)
 <br>
 
 <h3>🗃️ Version Control</h3>
