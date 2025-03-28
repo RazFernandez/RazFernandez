@@ -74,7 +74,7 @@ I’m currently developing Club STEAM App, a mobile Flutter application designed
 My Github Stats
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razfernandez&show_icons=true&locale=en" alt="razfernandez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razfernandez&show_icons=true&theme=dark&locale=en" alt="razfernandez" /></p>
 
 
 
