@@ -1,9 +1,9 @@
 <!-- This is my README description on my GitHub profile-->
 
 <h1 align="center">Hi 👋, I'm Raziel Fernández</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">Software developer</h3>
 <br>
-I'm passionate about developing tools and contributing to solving social problems. Committed to delivering functional, scalable, and user-centered solutions that meet all stakeholders' needs.
+I'm committed to delivering functional, scalable, and user-centered solutions that meet stakeholders' needs. By leveraging cutting-edge technologies and following best industry practices, I plan, design, implement, and maintain software with a focus on quality over quantity.
 <br>
 <br>
 
