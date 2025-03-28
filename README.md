@@ -23,7 +23,7 @@ I’m currently developing Club STEAM App, a mobile Flutter application designed
 <br>
 
 
-📌 Project Link: <a href="https://github.com/RazFernandez/club_steam_app" target="_blank">Club STEAM App</a>
+📌 Project Link: <a href="https://github.com/RazFernandez/club_steam_app" target="blank" rel="noreferrer">Club STEAM App</a>
 
 [Club STEAM App](https://github.com/RazFernandez/club_steam_app)
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
