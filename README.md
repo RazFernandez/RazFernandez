@@ -16,9 +16,14 @@ I'm passionate about developing tools and contributing to solving social problem
   - **https://www.linkedin.com/in/mrfernández/**
 <br>
 <h2 align="left">✨ Latest Work</h2>
-🔭 I’m currently developing Club STEAM App, a mobile flutter application designed to manage projects at my university.
-- Link: [Club STEAM App](https://github.com/RazFernandez/club_steam_app)
 
+<h3 align="left">📱 Club STEAM App</h3>
+I’m currently developing Club STEAM App, a mobile Flutter application designed to manage projects at my university.
+<br>
+<br>
+
+
+📌 Project Link: [Club STEAM App](https://github.com/RazFernandez/club_steam_app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
