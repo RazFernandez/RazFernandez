@@ -22,8 +22,6 @@ I’m currently developing Club STEAM App, a mobile Flutter application designed
 <br>
 <br>
 
-
-📌 Project Link: <a href="https://github.com/RazFernandez/club_steam_app" target="_blank" rel="noreferrer">Club STEAM App</a>
 <br>
 <br>
 <br>
