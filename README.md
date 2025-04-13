@@ -43,7 +43,7 @@ Also I'm developing my portfolio web using React and Django to offer an great us
 <br>
 <h3>🛠️ Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=django,firebase,gcp,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,firebase,gcp,&perline=8)](https://skillicons.dev)
 <br>
 <h3>🗄️ Databases</h3>
 
