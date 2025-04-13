@@ -35,7 +35,7 @@ Also I'm developing my portfolio web using React and Django to offer an great us
 
 <h3>🎨 Frontend & UI Design</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,figma,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,sass,figma,&perline=8)](https://skillicons.dev)
 <br>
 <h3>📱 Mobile Development</h3>
 
