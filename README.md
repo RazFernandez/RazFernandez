@@ -17,12 +17,8 @@ I'm committed to delivering functional, scalable, and user-centered solutions th
 <br>
 <h2 align="left">✨ Latest Work</h2>
 
-<h3 align="left">📱 Club STEAM App</h3>
-I’m currently developing Club STEAM App, a mobile Flutter application designed to manage projects at my university.
-<br>
-<br>
 <h3 align="left">💼 Portfolio Web</h3>
-Also I'm developing my portfolio web using React and Django to offer an great user experience.
+I'm developing my portfolio web using React and Django to offer an great user experience.
 <br>
 <br>
 <br>
