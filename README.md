@@ -31,7 +31,7 @@ I'm developing my portfolio web using React and Django to offer an great user ex
 
 <h3>🎨 Frontend & UI Design</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,sass,figma,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,figma,&perline=8)](https://skillicons.dev)
 <br>
 <h3>📱 Mobile Development</h3>
 
@@ -39,7 +39,7 @@ I'm developing my portfolio web using React and Django to offer an great user ex
 <br>
 <h3>🛠️ Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,firebase,gcp,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,gcp,&perline=8)](https://skillicons.dev)
 <br>
 <h3>🗄️ Databases</h3>
 
@@ -47,7 +47,7 @@ I'm developing my portfolio web using React and Django to offer an great user ex
 <br>
 <h3>⚙️ DevOps & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,vim&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,vim,docker&perline=8)](https://skillicons.dev)
 <br>
 
 <h3>🗃️ Version Control</h3>
