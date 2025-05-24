@@ -59,7 +59,8 @@ I'm developing my portfolio web using React and Tailwind to offer a great user e
 
 [![My Skills](https://skillicons.dev/icons?i=selenium&perline=2)](https://skillicons.dev) 
 <a href="https://scrapy.org">
-    <img src="https://pbs.twimg.com/profile_images/690207449471582208/LJ_Gsz28_400x400.png" width="50" height="50" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgW99CNcRUKzJwl76v-RU3iwiku93DThND1Q&s" width="50" height="50" />
+    
 </a>
 <br>
 <br>
