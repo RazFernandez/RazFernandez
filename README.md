@@ -18,7 +18,7 @@ I'm committed to delivering functional, scalable, and user-centered solutions th
 <h2 align="left">✨ Latest Work</h2>
 
 <h3 align="left">💼 Portfolio Web</h3>
-I'm developing my portfolio web using React and Django to offer an great user experience.
+I'm developing my portfolio web using React and Tailwind to offer a great user experience.
 <br>
 <br>
 <br>
