@@ -9,7 +9,7 @@ I'm committed to delivering functional, scalable, and user-centered solutions th
 
 - 🌍 I'm based in Cozumel, Quintana Roo
 
-- 👨‍💻 See my portfolion web at: _Comming soon_
+- 👨‍💻 See my portfolion web at: https://miguel-portfolio-web-fawn.vercel.app
 
 - 💼 You can contact me at:
   - **mr.fernandez.mx@outlook.com**
