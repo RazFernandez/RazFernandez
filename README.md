@@ -17,8 +17,9 @@ I'm committed to delivering functional, scalable, and user-centered solutions th
 <br>
 <h2 align="left">✨ Latest Work</h2>
 
-<h3 align="left">💼 Portfolio Web</h3>
-I'm developing my portfolio web using React and Tailwind to offer a great user experience.
+<h3 align="left">💰 Spendly</h3>
+I'm developing a personal finance mobile app using Flutter to help users take full control of their money.  
+Easily log expenses, set custom budgets, and track spending patterns in real time — all in a clean, intuitive interface designed for smarter financial decisions anytime, anywhere.  
 <br>
 <br>
 <br>
@@ -26,7 +27,7 @@ I'm developing my portfolio web using React and Tailwind to offer a great user e
 <h2 align="left">💻 Tech Stack</h2>
 <h3>👨‍💻 Programming Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,dart,js,cs,java,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,dart,js,ts,cs,java,&perline=8)](https://skillicons.dev)
 <br>
 
 <h3>🎨 Frontend & UI Design</h3>
@@ -39,17 +40,22 @@ I'm developing my portfolio web using React and Tailwind to offer a great user e
 <br>
 <h3>🛠️ Backend Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,firebase,gcp,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,firebase,gcp,aws,graphql&perline=8)](https://skillicons.dev)
 <br>
 <h3>🗄️ Databases</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,dynamodb&perline=8)](https://skillicons.dev)
 <br>
+
+<h3>🗳️ Deployment platforms</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,vercel,netlify&perline=8)](https://skillicons.dev)
+<br>
+
 <h3>⚙️ DevOps & Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,vim,docker&perline=8)](https://skillicons.dev)
 <br>
-
 <h3>🗃️ Version Control</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,&perline=8)](https://skillicons.dev)
